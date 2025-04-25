@@ -1,0 +1,17 @@
+const Map<String, String> diseaseSolutions = {
+  "Pepper__bell___Bacterial_spot": "Use copper-based fungicide. Remove infected leaves.",
+  "Pepper__bell___healthy": "No treatment needed.",
+  "Potato___Early_blight": "Use fungicide. Rotate crops regularly.",
+  "Potato___Late_blight": "Remove infected plants. Apply protective fungicides.",
+  "Potato___healthy": "No treatment needed.",
+  "Tomato_Bacterial_spot": "Avoid overhead irrigation. Use copper spray.",
+  "Tomato_Early_blight": "Apply fungicide every 7-10 days. Improve air circulation.",
+  "Tomato_Late_blight": "Destroy infected plants. Use resistant varieties.",
+  "Tomato_Leaf_Mold": "Increase air circulation and reduce humidity.",
+  "Tomato_Septoria_leaf_spot": "Remove affected leaves. Apply organic fungicide.",
+  "Tomato_Spider_mites_Two_spotted_spider_mite": "Spray neem oil. Keep humidity high.",
+  "Tomato__Target_Spot": "Use fungicides and crop rotation.",
+  "Tomato__Tomato_YellowLeaf__Curl_Virus": "Control whiteflies. Remove infected plants.",
+  "Tomato__Tomato_mosaic_virus": "Remove and destroy infected plants.",
+  "Tomato_healthy": "No treatment needed.",
+};

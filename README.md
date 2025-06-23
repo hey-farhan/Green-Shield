@@ -60,11 +60,11 @@ GreenShield/
 
 2.Install dependencies:
 
-pip install -r requirements.txt
+   pip install -r requirements.txt
 
 3.Run the FastAPI server 
 
-uvicorn app:app --host 0.0.0.0 --port 8000
+  uvicorn app:app --host 0.0.0.0 --port 8000
 
 4.Visit http://localhost:8000/docs for Swagger UI / Postman 
 
@@ -81,9 +81,12 @@ flutter pub get
 3.Run the app : 
 flutter run
 
-
+(NOTE : Change the address of localhost to your current IP address in the Flutter App)
+---
 
 🤝 Acknowledgements
+
+
 Dataset: PlantVillage Dataset
 
 PyTorch, FastAPI, Flutter, and community libraries

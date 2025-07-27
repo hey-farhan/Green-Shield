@@ -2,6 +2,10 @@
 
 **GreenShield** is a cross-platform plant disease detection application built using **FastAPI** for the backend and **Flutter** for the frontend. It utilizes deep learning models trained on leaf images of **potato**, **tomato**, and **bell pepper** plants to classify them into healthy or disease-specific categories.
 
+## Deployed at :
+  
+  https://green-shield.onrender.com/
+
 ---
 
 ## 🚀 Features
@@ -22,7 +26,6 @@
 - **OOD Filter Model**:
   - Classifies whether an uploaded image contains a valid leaf or not
   - Prevents false classifications from irrelevant inputs
-
 ---
 
 ## 🧱 Tech Stack
@@ -33,19 +36,19 @@
 | Frontend  | Flutter                         |
 | Model     | Custom CNN / Transfer Learning (PyTorch) |
 | Format    | REST APIs for predictions       |
-
 ---
 
 ## 📁 Project Structure
 
+```
 GreenShield/
-├── backend/ # FastAPI server & ML models
-├── frontend/ # Flutter mobile/web app
-├── model/ # Jupyter notebooks for training
+├── backend/          # FastAPI server & ML models
+├── Flutter/          # Flutter mobile/web app
+├── Model/            # Jupyter notebooks for training
+├── pytorch_models/   # Trained PyTorch model files
 ├── .gitignore
 └── README.md
-
-
+```
 ---
 
 ## ⚙️ Running the Project

@@ -90,4 +90,12 @@ flutter run
 Dataset: PlantVillage Dataset
 
 PyTorch, FastAPI, Flutter, and community libraries
+---
 
+## 📜 License
+
+This project is licensed under the [MIT License](./LICENSE).
+
+You **must include** the following attribution if you use, distribute, or modify this project:
+
+> Developed by [Farhan Inamdar](https://github.com/hey-farhan) as part of the **GreenShield** Leaf Disease Detection App.
